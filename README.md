@@ -1,6 +1,8 @@
-# MageJourney
+# ![Screenshot of the game](./MobliePics/icon.ico) MageJourney
 
 MageJourney is a single-player action-adventure game built using the `pygame` library.
+
+
 
 ## Installation and Running
 
@@ -24,13 +26,19 @@ cd dist
 
 4. run `MageJourney.exe` or Double click the MageJourney.exe icon
 
-## Gameplay
+## 🎮Gameplay
 
 Use your mouse to cast spells or to use health potions. \
 Casting Spells: With a simple click of your mouse, unleash the fury of your magic. Choose between:
-1. Fireball: A classic spell, a ball of fire towards your enemy
-2. Meteor shower: Call down a meteor from the sky, dealing massive damage 
+1.  <img src="./MobliePics/Fireball.png" alt="Description of Image" width="30" height="20"> `Fireball:` A classic spell, a ball of fire towards your enemy
+3.  <img src="./MobliePics/MeteorShower.png" alt="Description of Image" width="30" height="20"> `Meteor shower:` Call down a meteor from the sky, dealing massive damage 
    
-Drink a Health Potion: Restore some of your lost vitality, but use them wisely you might run out when you need them most! \
+<img src="./MobliePics/HealthPotion.png" alt="Description of Image" width="27" height="22"> Drink a Health Potion: Restore some of your lost vitality, but use them wisely you might run out when you need them most! \
+
+## 🛠 Key Library
+* `pygame:` For the development of graphics and sound in the game.
 
 Thank you for playing MageJourney!
+
+
+
